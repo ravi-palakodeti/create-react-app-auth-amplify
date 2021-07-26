@@ -3,11 +3,19 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "aws-amplify": "^4.2.0",
     "@aws-amplify/ui-react": "^1.2.6",
+    "amazon-connect-chatjs": "^1.1.5",
+    "amazon-connect-streams": "^1.6.8",
+    "aws-amplify": "^4.2.0",
+    "bootstrap": "^5.0.2",
+    "material-ui": "^0.20.2",
     "react": "^16.13.1",
+    "react-bootstrap": "^1.6.1",
     "react-dom": "^16.13.1",
-    "react-scripts": "^4.0.3"
+    "react-inline-script": "^1.2.0",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "^4.0.3",
+    "uuid": "^3.4.0"
   },
   "resolutions": {
     "set-value": "^2.0.1",
